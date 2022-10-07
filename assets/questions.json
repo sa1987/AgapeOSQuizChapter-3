@@ -1,9 +1,9 @@
 [
     {
-      "question": "What can anyone do with software or hardware if it is open-source?",
+      "question": "What can NOT anyone do with software or hardware if it is open-source?",
       "choice1": "Modify",
       "choice2": "Distribute",
-	  "choice3": "Sell",
+      "choice3": "Sell",
       "choice4": "Study",
       "answer": 3
     },
@@ -24,15 +24,15 @@
       "answer": 4
     },
     {
-      "question": "What is documenting your code essential for?",
+      "question": "What is documenting your code NOT essential for?",
       "choice1": "Collaboration with other researchers",
       "choice2": "Showing off your coding skills",
-	  "choice3": "To remember what the code contains and does",
+      "choice3": "To remember what the code contains and does",
       "choice4": "Adaptable research",
       "answer": 2
     },
     {
-      "question": "What can the future of scientific programming provide?",
+      "question": "What is NOT expected the future of scientific programming will provide?",
       "choice1": "Promising developments that serve all professions.",
       "choice2": "Computers will be able to spot and fix errors without human intervention",
       "choice3": "The key for conducting very sophisticated research.",
